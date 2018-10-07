@@ -16,7 +16,7 @@
 title: Jame's Blog
 email: contact@bip44.email
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a place for me to write about the things I'm thinking/ reading.
+  This is the place I write about things that I'm thinking/ reading.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Lurker42o
